@@ -13,7 +13,7 @@ If you find an error or think you've a better way to solve some of them, feel fr
 import numpy as np
 ```
 
-#### 1. Import the re package under the name `re` (★☆☆)
+#### 1. Import the re package under the name `re`
 ```python
 import re as re
 ```
